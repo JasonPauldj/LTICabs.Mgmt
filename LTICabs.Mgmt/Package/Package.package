@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="cdc2adab-8648-4d87-833a-50a55ddf0a21" 
+        solutionId="cdc2adab-8648-4d87-833a-50a55ddf0a21" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="LTICabs.Mgmt"
+        sharePointProductVersion="15.0">
+</package>
